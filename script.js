@@ -4,7 +4,7 @@
 
 // 1. Nomor WhatsApp Admin (Gunakan kode negara tanpa tanda '+', contoh: 6281234567890)
 const CONFIG_ADMIN = {
-  nomorWA: "6285719334574", // GANTI dengan nomor WhatsApp Anda
+  nomorWA: "6285719324574", // GANTI dengan nomor WhatsApp Anda
   namaToko: "MASFEY STORE"
 };
 
